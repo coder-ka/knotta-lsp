@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "workspaces": [
+    "knotta-lsp-vscode-ext",
+    "knotta-lsp-server"
+  ]
+}

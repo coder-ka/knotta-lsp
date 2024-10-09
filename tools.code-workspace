@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../tools"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "knotta-lsp-vscode-ext"
+	},
+	{
+		"path": "knotta-lsp-server"
+	}
+],
+  "settings": {}
+}
